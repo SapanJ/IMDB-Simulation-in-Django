@@ -5,8 +5,8 @@ Problem Statement:
 The objective of this assignment is to build a movie review website similar to IMDB
 
 How to Use:
-Download project files then Import inside your Django env. In eclipse, you can go like this
-Import->general->filesystem-><select project>
+Download project files then Import inside your Django env.
+In eclipse you can go like this, Import->general->filesystem->select project
 
 What all it has covered:
 1. Django Templates
@@ -15,7 +15,8 @@ What all it has covered:
 4. Normalized Database 
 5. Exception Handling
 
-Software Used:
-Eclipse IDE with pydev environment
-Python Version: 2.7.12
-Django Version: 1.11.2
+Software Used
+1. Eclipse with PyDev environment
+2. Python Version: 2.7.12
+3. Django Version: 1.11.2
+
