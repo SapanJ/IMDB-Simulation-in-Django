@@ -10,6 +10,7 @@ I have tried to cover my high level understanding about Django by using below gi
 3.	Focus Areas
 4.	Functional flow
 5.	Software Used
+
 Database Design
 Table 1: MovieData
 Movie_ID	Movie_Name	Director_Name	Genre	Release_Year
@@ -42,5 +43,3 @@ Software Used
 Eclipse IDE with pydev environment
 Python Version: 2.7.12
 Django Version: 1.11.2
-Please contact me for more clarity on this assignment.
-sapan.nitk@gmail.com 
